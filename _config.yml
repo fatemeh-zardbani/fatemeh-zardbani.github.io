@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parsa Morsal M.Sc B.Sc"
+title                    : "Fatemeh Zardbani"
 title_separator          : "-"
-name                     : &name "Parsa Morsal"
-description              : &description "Machine Learning Engineer"
-url                      : https://parsamorsal.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fatemeh Zardbani"
+description              : &description "Database Researcher"
+url                      : https://fatemehzardbani.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "parsamorsal/parsamorsal.github.io"
+repository               : "fatemehzardbani/fatemehzardbani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -76,14 +76,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Parsa Morsal"
+  name             : "Fatemeh Zardbani"
   avatar           : "profile.png"
-  bio              : "Machine Learning Engineer, Software Engineer, Research Scientist, Lecturer"
-  location         : "Toronto, Ontario"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "parsa.morsal@gmail.com"
+  bio              : "Researcher in database systems and adaptive indexing"
+  location         : "Aarhus, Denmark"
+  employer         : "Aarhus University"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=YrkB81AAAAAJ&hl=en"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "parsamorsal"
+  github           : "fatemehzardbani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "parsa-morsal"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :

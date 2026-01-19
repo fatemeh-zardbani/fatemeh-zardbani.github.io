@@ -57,7 +57,7 @@ model = spacy.load('en_core_web_sm') #Pre-trained model
 
 
 ```python
-doc = model('Hi I am Parsa and I was born on September 1996. \
+doc = model('Hi I am Fatemeh and I was born on September 1996. \
            I work at a tech company in Toronto. I just bought a book \
            for $24 from Amazon. I love JAVA')
 ```
@@ -69,7 +69,7 @@ displacy.render(doc,style='ent')
 
 <div class="entities" style="line-height: 2.5; direction: ltr">Hi I am 
 <mark class="entity" style="background: #aa9cfc; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
-    Parsa
+    Fatemeh
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERSON</span>
 </mark>
  and I was born on 

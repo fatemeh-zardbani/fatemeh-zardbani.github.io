@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/Parsa_Morsal_CV.pdf"><img src="/images/CV.png"></a>
+CV available upon request.
 
