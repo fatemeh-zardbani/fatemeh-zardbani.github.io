@@ -78,9 +78,9 @@ analytics:
 author:
   name             : "Fatemeh Zardbani"
   avatar           : "profile.png"
-  bio              : "Researcher in database systems and adaptive indexing"
-  location         : "Aarhus, Denmark"
-  employer         : "Aarhus University"
+  bio              : "Researcher in database systems and AI"
+  location         : "Edinburgh, UK"
+  employer         : "Huawei R&D UK"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YrkB81AAAAAJ&hl=en"
   email            :
@@ -98,7 +98,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/fatemeh-zardbani/
   orcid            : 
   pinterest        :
   soundcloud       :
