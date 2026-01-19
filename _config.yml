@@ -11,9 +11,9 @@ title                    : "Fatemeh Zardbani"
 title_separator          : "-"
 name                     : &name "Fatemeh Zardbani"
 description              : &description "Database Researcher"
-url                      : https://fatemehzardbani.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fatemeh-zardbani.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fatemehzardbani/fatemehzardbani.github.io"
+repository               : "fatemeh-zardbani/fatemeh-zardbani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fatemehzardbani"
+  github           : "fatemeh-zardbani"
   google_plus      :
   keybase          :
   instagram        :
