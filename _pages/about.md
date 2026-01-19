@@ -24,4 +24,4 @@ with/on;
 You can find a full publication list on the Publications page and on my Google Scholar profile:
 
 - [Google Scholar](https://scholar.google.com/citations?user=YrkB81AAAAAJ&hl=en)
-- [CV (PDF)](/files/CV_fatemeh.pdf)
+- [CV (PDF)]({{ site.baseurl }}/files/CV_fatemeh.pdf)

@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Download CV (PDF)](/files/CV_fatemeh.pdf)
+[Download CV (PDF)]({{ site.baseurl }}/files/CV_fatemeh.pdf)
 
